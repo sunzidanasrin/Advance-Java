@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<company>
+    <staff>
+        <fullname>Urmi</fullname>
+        <Age>27</Age>
+        <salary>300</salary>        
+    </staff>
+    <staff>
+        <fullname>Ruhul</fullname>
+        <Age>25</Age>
+        <salary>30000</salary>        
+    </staff>
+    <staff>
+        <fullname>sazal</fullname>
+        <Age>27</Age>
+        <salary>30000</salary>        
+    </staff>
+</company>

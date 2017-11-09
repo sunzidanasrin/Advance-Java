@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persons>
+
+    <person>
+        <id>11111</id>
+        <name>Karim</name>
+    </person>
+
+    <person>
+        <id>11122</id>
+        <name>Rahim</name>
+    </person>
+
+</persons>
+
